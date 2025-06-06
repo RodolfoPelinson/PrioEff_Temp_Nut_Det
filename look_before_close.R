@@ -9,6 +9,9 @@ renv::load()
 
 
 
+usethis::use_git()
+usethis::use_github()
+
 #Packages
 install.packages("devtools")
 library(devtools)

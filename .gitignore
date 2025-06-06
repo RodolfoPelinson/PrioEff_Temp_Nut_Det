@@ -1,6 +1,8 @@
 .Rproj.user
 .Rhistory
-.Rdata
-.httr-oauth
-.DS_Store
-.quarto
+.RData
+.Ruserdata
+/plots
+/data
+look_before_close.R
+/results
